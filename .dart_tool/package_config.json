@@ -15,9 +15,9 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.0.0",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.9"
     },
     {
       "name": "charcode",
@@ -45,9 +45,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.13",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.9"
     },
     {
       "name": "cupertino_icons",
@@ -123,9 +123,9 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "1.12"
+      "languageVersion": "2.9"
     },
     {
       "name": "path",
@@ -255,15 +255,15 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.2.0",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.4"
+      "languageVersion": "2.9"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.9"
     },
     {
       "name": "xdg_directories",
@@ -278,7 +278,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-07-12T09:00:49.024886Z",
+  "generated": "2020-07-13T02:52:12.368697Z",
   "generator": "pub",
   "generatorVersion": "2.9.0-21.0.dev.flutter-06cb010247"
 }
