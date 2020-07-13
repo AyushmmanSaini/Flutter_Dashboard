@@ -9,8 +9,9 @@ Database is connected but it is not used yet or its not bug free..\
 
 
 ## Directory Structure
--assets\  
-    - fonts\  
+<pre>
+-assets  
+    - fonts  
         -Open_Sans\
     - emblem logo\
 -lib\
@@ -46,10 +47,11 @@ Database is connected but it is not used yet or its not bug free..\
           -navBarButtons.dart\
       -Header_Bar\
   -main.dart\
-  
+</pre>  
 ## Database Tables
+<code>
   -PieDB\
     http://goatish-cupful.000webhostapp.com/get.php \
   -BarDB\
-    http://goatish-cupful.000webhostapp.com/getbar.php \
-
+    http://goatish-cupful.000webhostapp.com/getbar.php 
+</code>
